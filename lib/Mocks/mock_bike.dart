@@ -15,7 +15,7 @@ final MOCK_BIKES = [
     descricao: 'BICICLETA GTSM1 ARO 29 FREIO A DISCO 24 MARCHAS MX8 E RODAS DE MAGNÉSIO | GTS M1 ADVANCED MAGNÉSIO 2021',
     imagemURL: 'https://static3.tcdn.com.br/img/img_prod/394779/bicicleta_gtsm1_aro_29_freio_a_disco_24_marchas_mx8_e_rodas_de_magnesio_gts_m1_advanced_magnesio_202_3187_variacao_11249_1_9378c1c3d5aa507a4bcccdc05660719c.png',
   ),
-
+//
   Bike(
     codigo: 1959,
     nome: 'BICICLETA GTS ARO 29',
